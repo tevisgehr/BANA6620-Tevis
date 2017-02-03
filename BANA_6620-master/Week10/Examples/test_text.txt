@@ -1,0 +1,5 @@
+This is the first line.
+This is the second line.
+This is the third line.
+How many lines are in this file?
+I wonder if this will work with compound sentences, or if it will break when we write stuff like this.

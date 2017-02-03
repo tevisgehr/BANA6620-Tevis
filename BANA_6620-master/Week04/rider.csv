@@ -1,0 +1,11 @@
+RiderID, FirstName, LastName, Address, State, Gender, Age, PhoneType
+1,Adam,Bu, Add1, CO, M,31, Android
+2,Eric,We, Add2, CO, M,45, Android
+3,Andrea,Re, Add3, CA, M,26, Android
+4,Mike,Be, Add4, CA, M,34, Android
+5,Ari,Lee, Add5, CA, M,48, Android
+6,Lee,Ngo, Add5, CA, F,35, Android
+7,Melissa,Dav, Add7, CO, M,52, iOS
+8,Clint,East, Add8, CO, M,23, iOS
+9,Rodrigo,Mann, Add9, CA, M,26, iOS
+10,Pyper,Flink, Add10, CA, M,34, iOS

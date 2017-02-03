@@ -1,0 +1,9 @@
+Part 1:
+>>> df['event'].value_counts()
+
+1.
+SELECT Event, COUNT(*)
+FROM [df]
+GROUP BY Event
+
+2.
